@@ -1,4 +1,4 @@
-# Babylon.js文档翻译
+# Babylon.js文档翻译计划
 
 ## 介绍
 
@@ -30,7 +30,7 @@ Babylon.js的中文资料非常少，很多想学习Babylon.js的同学看到全
 
 ## 资源链接
 
-- [Babylon.js中文网](hhttps://www.cnbabylon.com/)
+- [Babylon.js中文网](https://www.cnbabylon.com/)
 - [Babylon.js中文文档](https://doc.cnbabylon.com)
 - [Babylon.js英文文档](https://endoc.cnbabylon.com)
 
